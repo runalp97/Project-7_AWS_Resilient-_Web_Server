@@ -5,6 +5,9 @@ A fully functional AWS infrastructure built to achieve fault tolerance, scalabil
 📌 Personal project built during AWS practical learning
 Purchased personal domain → Used Route 53 for DNS mapping
 
+**Note: the final testing of this project with screenshot ppt file are in the folder named as "final testing" in this repository.**
+
+
 **🎯 Project Objective**
 
 To deploy a resilient web server architecture on AWS that:
